@@ -1,4 +1,7 @@
-<?
+<?php
+
+//echo "hi,asdf";
+
 include("retwis.php");
 
 if (!isLoggedIn()) {
